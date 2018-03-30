@@ -1,4 +1,4 @@
-print('this is a file practicing the syntax of the operators in Python')
+#this is a file practicing the syntax of the operators in Python
 
 print ('6 + 2 is?')
 print (6 + 2)
