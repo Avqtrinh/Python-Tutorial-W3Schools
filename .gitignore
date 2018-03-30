@@ -1,0 +1,3 @@
+#Ignore SSHKeys for github
+SSHKey.pub
+SSHKey
