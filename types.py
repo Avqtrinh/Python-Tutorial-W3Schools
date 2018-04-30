@@ -6,7 +6,7 @@ testComplex = 3+1j
 testString = "TestTest"
 testList = [1,2,3,'a',"b","c"]
 testTup = ("a","tuple","is","an","immutable","list")
-
+testBool = false
 
 print("int")
 print(testInteger)
@@ -41,6 +41,7 @@ for x in testTup:
 	print(x)
 
 print("Boolean")
+print(testBool)
 
 print("sets s")
 
