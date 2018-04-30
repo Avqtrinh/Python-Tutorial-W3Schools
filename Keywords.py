@@ -21,5 +21,5 @@ del a
 print ('del a')
 try:print('a is: '+a)
 except:print("name 'a' is not defined error is thrown try --> except")
-
+input()
 #endinf file for now
