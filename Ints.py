@@ -8,3 +8,4 @@ print(x+y)
 
 print('x+y with cast')
 print(int(x)+y)
+input()

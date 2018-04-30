@@ -171,3 +171,4 @@ print(a)
 
 print()
 print('in and not in need knowledge of some sort of colection or sequence')
+input()
