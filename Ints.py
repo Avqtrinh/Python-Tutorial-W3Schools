@@ -8,3 +8,7 @@ print(x+y)
 
 print('x+y with cast')
 print(int(x)+y)
+
+print("useing del on y then printing y should throw an error")
+del y
+print y

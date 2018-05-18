@@ -1,0 +1,16 @@
+import time
+import datetime
+import calender
+print("the two objects for date time are naive and aware")
+print("aware holds details about time zone and dls)
+print("the max year and min year values: ")
+print(time.MAXYEAR)
+print(time.MINYEAR)
+print("the current ticks is")
+print(time.time())
+print("the current time is")
+print(datetime.now())
+print("the date is")
+print(datetime.now().strftime('&Y-%m-%d'))
+print("the local time is")
+print(time.localtime(time.time()))
