@@ -8,4 +8,3 @@ else:
 		file.write(testString) 
 
 print("this program prints to a document the line: " + testString)
-
